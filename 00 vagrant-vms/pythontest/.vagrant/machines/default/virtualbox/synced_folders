@@ -1,0 +1,1 @@
+{"rsync":{"/vagrant":{"type":"rsync","guestpath":"/vagrant","hostpath":"D:/Devops/DevOps/Devops-Udemy/00 vagrant-vms/pythontest","disabled":false,"__vagrantfile":true,"owner":"vagrant","group":"vagrant"}}}

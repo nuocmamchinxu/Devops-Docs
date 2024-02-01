@@ -1,0 +1,21 @@
+ping : ping các gói tin, xem đến 2 máy
+tracert : xem cả quãng đường và thời gian trễ 
+
+netstart -antp: show tcp open port 
+ps -ef | grep apache (ví dụ tìm port apache)
+
+nmap : (tải về trước )
+nmap localhost: show open port 
+nmap <tên máy> scan port open của máy 
+
+dig: show dns lookup 
+
+route -n : show gateway 
+
+arp: view kernel, mac addr,...
+
+mtr: same traceroute 
+
+telnet <ip> <port> : check port có mở trên máy IP kia ko 
+
+
